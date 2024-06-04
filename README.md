@@ -1,1 +1,1 @@
-# Ramya_JS3_Lab
+This is Lab 3 Javascript assignment.
